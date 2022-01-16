@@ -1,0 +1,12 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "Learning graphql by official tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql", "node", "api"],
+  "author": "sspantz",
+  "license": "MIT"
+}
